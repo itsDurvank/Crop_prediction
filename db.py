@@ -46,7 +46,7 @@ class CropDatabase:
         soil_data_id = cursor.lastrowid
         conn.commit()
         conn.close()
-        
+
         return soil_data_id
     
     def add_prediction(self, soil_data_id, predicted_crop):

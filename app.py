@@ -358,7 +358,7 @@ crop_info = {
         "ideal_conditions": "Temperature: 24-37°C, pH: 6.0-7.5, High rainfall (1200-2500mm)",
         "growth_period": "120-150 days",
         "fun_fact": "Jute is often called the 'golden fiber' and is the second most important vegetable fiber after cotton.",
-        "image": "jute.jpg"
+        "image": "Jute.jpg"
     },
     "Coconut": {
         "description": "Coconut palms thrive in tropical coastal regions with sandy soil.",

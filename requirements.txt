@@ -6,5 +6,5 @@ scikit-learn
 joblib
 streamlit
 sqlalchemy
-google-generativeai
 dotenv
+google.generativeai
